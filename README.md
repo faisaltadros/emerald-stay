@@ -15,3 +15,7 @@ npm install
 
 # Run React
 npm start
+
+## Quick Start
+
+https://faisaltadros.github.io/emerald-stay/
