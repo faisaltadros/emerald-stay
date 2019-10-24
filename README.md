@@ -9,12 +9,12 @@ Once the data is loaded it is stored in state and so does not have to make reque
 
 ## Quick Start
 
-```bash
 # Install dependencies
 npm install
 
 # Run React
 npm start
+
 
 ## Quick Start
 
