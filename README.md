@@ -17,6 +17,6 @@ npm install
 npm start
 ```
 
-## Quick Start
+## Demo
 
 https://faisaltadros.github.io/emerald-stay/
