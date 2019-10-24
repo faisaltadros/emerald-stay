@@ -7,6 +7,7 @@ Once all data has been loaded, the footer is rendered.
 Using the filter you can sort the properties by lowest or highest price. You can also filter by Top Picks or Reduced Rate.
 Once the data is loaded it is stored in state and so does not have to make requests every time, so unlimited properties can be added.
 
+```bash
 ## Quick Start
 
 # Install dependencies
@@ -14,7 +15,7 @@ npm install
 
 # Run React
 npm start
-
+```
 
 ## Quick Start
 
